@@ -15,3 +15,5 @@ __pycache__/
 *.tmp
 *_output.txt
 *.kraken
+*_output.txt
+*.kraken
