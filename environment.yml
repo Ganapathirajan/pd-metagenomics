@@ -1,0 +1,19 @@
+name: metagenomics_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - kraken2
+  - bracken
+  - krona
+  - fastqc=0.12.1
+  - trimmomatic
+  - sra-tools
+  - pip:
+    - pandas
+    - numpy
+    - scipy
+    - matplotlib
+    - seaborn

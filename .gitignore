@@ -1,0 +1,17 @@
+*.fastq
+*.fastq.gz
+*.sra
+*.sra.tmp
+kraken2_db/
+*.k2d
+*.kmer_distrib
+trimmed/
+raw_data/
+logs/
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+*.tmp
+*_output.txt
+*.kraken

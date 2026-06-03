@@ -1,0 +1,12 @@
+ALPHA DIVERSITY — SHANNON INDEX
+========================================
+        SRR Group  Shannon
+SRR19064316    PD 2.740356
+SRR19064317    PD 2.934830
+SRR19064453    HC 3.233196
+SRR19064454    HC 3.052402
+SRR19064809    HC 3.482989
+
+PD mean Shannon: 2.8376
+HC mean Shannon: 3.2562
+Mann-Whitney U p-value: 0.2000
