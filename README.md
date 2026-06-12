@@ -1,4 +1,4 @@
-# PD Metagenomics — Gut Microbiome Dysbiosis in Parkinson's Disease
+# PD Metagenomics — Gut Microbiome Dysbiosis in Parkinson's Disease.
 
 ![Pipeline](https://img.shields.io/badge/pipeline-Kraken2%20%7C%20Bracken%20%7C%20Krona-blue)
 ![Dataset](https://img.shields.io/badge/dataset-PRJNA834801%20Wallen%202022-green)
