@@ -86,7 +86,3 @@ python workflow/beta_diversity.py
 - p = 0.20 due to small n — directionally consistent with Wallen 2022
 - Raw FASTQ + Kraken2 DB excluded (too large) — use download script
 
----
-
-*Dataset: Wallen et al. 2022, PRJNA834801. Not for clinical use.*
-
