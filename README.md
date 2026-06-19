@@ -84,5 +84,4 @@ python workflow/beta_diversity.py
 
 - Pilot: 5 samples only (full cohort = 724 samples)
 - p = 0.20 due to small n — directionally consistent with Wallen 2022
-- Raw FASTQ + Kraken2 DB excluded (too large) — use download script
-
+- Raw FASTQ + Kraken2 DB excluded (too large) — use download script.
